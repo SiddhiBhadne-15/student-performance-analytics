@@ -80,7 +80,7 @@ The project turns raw marks into a clear report without any manual calculation.
 - Learned how to split code into reusable functions, use loops with DataFrames, and organise a project for GitHub.
 
 ## 10. GitHub Repository
-`<PASTE YOUR GITHUB REPOSITORY LINK HERE>`
+https://github.com/SiddhiBhadane-15/student-performance-analytics
 
 ## How to Run
 ```bash
