@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Programming,Attendance,Total,Average,Grade,Result,Attendance_Status
+S101,Aarav Sharma,Computer,85,78,82,74,92,91,411,82.2,A+,Pass,Eligible
+S102,Diya Patil,Computer,92,88,90,85,96,96,451,90.2,O,Pass,Eligible
+S103,Rohan Deshmukh,Mechanical,56,48,52,60,45,72,261,52.2,C,Pass,Shortage
+S104,Sneha Joshi,Electronics,74,70,68,80,77,85,369,73.8,A,Pass,Eligible
+S105,Kunal Patel,Mechanical,38,42,35,55,40,64,210,42.0,D,Fail,Shortage
+S106,Ishita Verma,Computer,67,72,70,78,81,88,368,73.6,A,Pass,Eligible
+S107,Aditya Kulkarni,Electronics,81,76,79,70,84,90,390,78.0,A,Pass,Eligible
+S108,Pooja Nair,Civil,59,63,57,68,61,79,308,61.6,B,Pass,Eligible
+S109,Vivek Singh,Civil,45,39,48,52,50,68,234,46.8,D,Fail,Shortage
+S110,Meera Iyer,Computer,95,91,93,89,98,98,466,93.2,O,Pass,Eligible
+S111,Harsh Gupta,Mechanical,62,58,64,66,59,74,309,61.8,B,Pass,Shortage
+S112,Neha Reddy,Electronics,88,84,86,82,90,94,430,86.0,A+,Pass,Eligible
+S113,Siddharth Rao,Civil,71,66,69,73,68,83,347,69.4,B,Pass,Eligible
+S114,Anjali Mehta,Computer,78,80,75,84,88,92,405,81.0,A+,Pass,Eligible
+S115,Yash Thakur,Mechanical,34,40,38,48,36,58,196,39.2,F,Fail,Shortage
+S116,Riya Chauhan,Electronics,69,73,71,75,72,86,360,72.0,A,Pass,Eligible
+S117,Tanmay Bhosale,Civil,53,50,55,61,49,70,268,53.6,C,Pass,Shortage
+S118,Kavya Menon,Computer,83,79,85,88,86,93,421,84.2,A+,Pass,Eligible
+S119,Aman Khan,Mechanical,64,61,60,70,66,77,321,64.2,B,Pass,Eligible
+S120,Priya Singh,Electronics,76,82,78,79,80,89,395,79.0,A,Pass,Eligible
