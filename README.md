@@ -59,9 +59,9 @@ Teachers usually have raw marks in a sheet and must calculate totals, grades and
 - `top_performers()` – ranked top students
 
 ## 7. Output
-Full sample output is in [`output.txt`](output.txt). Add your screenshots here, for example:
-
-`![Output](screenshots/output1.png)`
+Screenshot1.png
+Screenshot2.png
+Screenshot3.png
 
 ## 8. Final Outcome
 For the 20-student dataset the program reports:
